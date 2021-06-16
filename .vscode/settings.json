@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "D:\\Programs\\Python\\python.exe",
+    "jupyter.jupyterServerType": "local",
+    "python.languageServer": "Pylance"
+}
